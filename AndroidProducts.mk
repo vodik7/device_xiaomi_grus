@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/derp_grus.mk
+	$(LOCAL_DIR)/aosp_grus.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_grus-userdebug \
-    derp_grus-eng
+    aosp_grus-userdebug \
+    aosp_grus-eng
