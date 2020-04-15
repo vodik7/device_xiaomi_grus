@@ -34,14 +34,8 @@
 #define FOD_STATUS_ON 1
 #define FOD_STATUS_OFF 0
 
-<<<<<<< HEAD
-#define FOD_SENSOR_X 448
-#define FOD_SENSOR_Y 1938
-#define FOD_SENSOR_SIZE 185
-=======
 #define FOD_ERROR 8
 #define FOD_ERROR_VENDOR 6
->>>>>>> parent of 07fc7cb... grus: fod changes
 
 #define FOD_SENSOR_X 448
 #define FOD_SENSOR_Y 1938
